@@ -1,0 +1,45 @@
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+*.tgz
+*.zip
+
+# Ignore Kafka logs and data
+/kafka-logs/
+/kafka/data/
+
+# Ignore Java installation files
+/Java/
+
+# Ignore downloaded Kafka and Java files
+/downloads/
+/temp/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.class
+
+# Ignore environment-specific files
+.env
+*.env
+
+# Ignore PowerShell history
+*.history
+
+# Ignore Git-related files
+*.orig
+*.rej
+
+# Ignore NuGet packages (if applicable)
+packages/
