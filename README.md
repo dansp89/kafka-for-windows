@@ -44,7 +44,7 @@ This project provides a PowerShell script to automate the installation of **Apac
      - Configuring Kafka in KRaft mode.
    - At the end, you can choose to run a basic Kafka demo.
 
-> Or use in powershell terminal:
+## Or use in powershell terminal:
 ```sh
 irm https://cdn.jsdelivr.net/gh/dansp89/kafka-for-windows@main/install.ps1 | iex
 ```
