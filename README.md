@@ -44,6 +44,10 @@ This project provides a PowerShell script to automate the installation of **Apac
      - Configuring Kafka in KRaft mode.
    - At the end, you can choose to run a basic Kafka demo.
 
+> Or use in powershell terminal:
+```sh
+irm https://cdn.jsdelivr.net/gh/dansp89/kafka-for-windows@main/install.ps1 | iex
+```
 ---
 
 ## Project Structure
@@ -106,3 +110,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Author
 
 - **DanSP** - Developer and maintainer of this project.
+- **Author URL:** [https://github.com/dansp89](https://github.com/dansp89)
+- **Project URL:** [https://github.com/dansp89/kafka-for-windows](https://github.com/dansp89/kafka-for-windows)

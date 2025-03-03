@@ -4,8 +4,8 @@
 # Description: Installs Kafka in KRaft mode (without Zookeeper), checks disk space and installs Java (JDK) if needed.
 #             Everything is installed on the system root drive (Example: C:\).
 
-# Author URL: http://github.com/dansp89
-# Project URL: http://github.com/dansp89/kafka-for-windows
+# Author URL: https://github.com/dansp89
+# Project URL: https://github.com/dansp89/kafka-for-windows
 
 # Function to create an interactive paginated list
 function Show-InteractiveMenu {
